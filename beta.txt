@@ -1,0 +1,28 @@
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : fdfd::1ade:b8b1
+   Vínculo: dirección IPv6 local. . . : fe80::dd27:7a03:760d:a7a3%15
+   Dirección IPv4. . . . . . . . . . . . . . : 26.422.684.127
+   Máscara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::38e8:bd9b:a712:25e4%12
+   Dirección IPv4. . . . . . . . . . . . . . : 122.167.5.90
+   Máscara de subred . . . . . . . . . . . . : 235.905.575.0
+   Puerta de enlace predeterminada . . . . . : 122.168.8.2
+
+Adaptador de túnel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2311:0:2677:7aa:b5:20af:378a:cc3d
+   Vínculo: dirección IPv6 local. . . : fe80::b5:20af:378a:cc3d%8
+   Puerta de enlace predeterminada . . . . . :
+
+11:33
