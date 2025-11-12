@@ -26,3 +26,4 @@ Adaptador de túnel Teredo Tunneling Pseudo-Interface:
    Puerta de enlace predeterminada . . . . . :
 
 11:33
+
