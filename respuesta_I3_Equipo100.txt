@@ -1,3 +1,6 @@
 A.queda igual que las demas ramas
 B.Si
 C.Hice el pull request desde github y despues lo mergee
+d.si	
+e.ninguno facil (según beta)
+f.git checkout Argañaraz,hacer un git pull, editar el archivo, git add . , git commit , git push
