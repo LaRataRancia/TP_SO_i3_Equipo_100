@@ -1,0 +1,64 @@
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : fdfd::1ade:b8b1
+   Vínculo: dirección IPv6 local. . . : fe80::dd27:7a03:760d:a7a3%15
+   Dirección IPv4. . . . . . . . . . . . . . : 26.422.684.127
+   Máscara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::38e8:bd9b:a712:25e4%12
+   Dirección IPv4. . . . . . . . . . . . . . : 122.167.5.90
+   Máscara de subred . . . . . . . . . . . . : 235.905.575.0
+   Puerta de enlace predeterminada . . . . . : 122.168.8.2
+
+Adaptador de túnel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2311:0:2677:7aa:b5:20af:378a:cc3d
+   Vínculo: dirección IPv6 local. . . : fe80::b5:20af:378a:cc3d%8
+   Puerta de enlace predeterminada . . . . . :
+
+11:33
+
+<<<<<<< HEAD
+=======
+GAMMA: Matias Achucarro
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : hgu_lan
+   Vínculo: dirección IPv6 local. . . : fe80::e14c:f519:17f0:3dc0%5
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.32.102
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.32.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::f96b:9e35:3c88:17a8%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+11:41
+>>>>>>> 74ee0bc5ccfa84b736b443d5751f94a1de197a03
+
+======
+ALFA: Nahuel Agustín Calderón
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::9aec:5840:5727:eb1c%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.37.45
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+11:46
