@@ -1,0 +1,3 @@
+A.queda igual que las demas ramas
+B.Si
+C.Hice el pull request desde github y despues lo mergee
