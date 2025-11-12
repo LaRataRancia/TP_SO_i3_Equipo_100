@@ -50,3 +50,15 @@ Adaptador de Ethernet Ethernet 2:
    Puerta de enlace predeterminada . . . . . :
 11:41
 >>>>>>> 74ee0bc5ccfa84b736b443d5751f94a1de197a03
+
+======
+ALFA: Nahuel Agustín Calderón
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::9aec:5840:5727:eb1c%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.37.45
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+11:46
